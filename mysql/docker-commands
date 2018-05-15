@@ -1,0 +1,5 @@
+docker-compose ps - check running container
+docker-compose up - start container
+docker-compose rm - remove container
+docker-compose stop - stop currently running container
+docker-compose exec - e.g. docker-compose exec mysql-dev mysql -uroot -ppassword imgapp
